@@ -7,6 +7,7 @@ The goal of this project is to create a neural network architecture to automatic
 
 After using the Microsoft Common Objects in COntext (MS COCO) dataset to train the network, it will be tested on novel images!
 
+![pic1](https://user-images.githubusercontent.com/23033231/63031340-28d5c600-beb4-11e9-895c-99b00d513a22.png)
 
 
 LSTM Decoder
