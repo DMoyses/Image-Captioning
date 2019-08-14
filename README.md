@@ -2,6 +2,7 @@
 
 
 Project Overview
+
 The goal of this project is to create a neural network architecture to automatically generate captions from images.
 
 After using the Microsoft Common Objects in COntext (MS COCO) dataset to train the network, it will be tested on novel images!
